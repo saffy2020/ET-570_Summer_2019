@@ -82,6 +82,10 @@ p{
   bottom: 2px;
 }
 
+.gallery-item .thumbnail {
+  border: 5px solid #fff;
+}
+
 .hero a {
 	color: #00FFAA;
 	font-size: 1.25em;
