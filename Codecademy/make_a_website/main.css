@@ -46,10 +46,40 @@ a{
   color: #ffffff;
 }
 
-
-p {
+p{
   color: #ffffff;
   font-size: 2rem;
+}
+
+/*organizing hoping*/
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin-top: 20px;
+}
+
+.gallery-item {
+  margin: 20px;
+  border: 5px solid #FFF;
+}
+
+.contact-btn {
+  float:right;
+
+}
+
+.contact-btn a {
+  margin-right: 30px;
+  padding: 8px 18px;
+  border: 1px solid #204156;
+
+}
+
+.contact-btn a:active {
+  position: relative;
+  bottom: 2px;
 }
 
 .hero a {
