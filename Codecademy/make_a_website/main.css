@@ -1,24 +1,32 @@
+
 body {
 	height: 100%;
 	margin: 0;
 	text-align: center;
 	width: 100%;
-  background-image: url("https://www.oodlesthemes.com/wp-content/uploads/2017/10/OO0122373-Blue-abstract-background-design-copy-copy.jpg");
+ background-image: url("https://images.wallpaperscraft.com/image/line_shape_sleek_white_black_56908_1920x1200.jpg");
  background-color: #cccccc;
+ background-repeat: no-repeat;
+ background-size: 2450px 2000px;
 }
 
 h1 {
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(65, 160, 244);
+  color: rgb(255,255,255);
 }
 
 h2 {
 	font-size: 56px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(66, 170, 244);
+  color: rgb(255,255,255);
 }
 
+h3 {
+  font-size: 25px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(255,255,255)
+}
 
 .hero {
 	padding: 250px 0;
@@ -31,6 +39,7 @@ h2 {
 
 
 p {
+  color: #ffffff;
   font-size: 2rem;
 }
 
