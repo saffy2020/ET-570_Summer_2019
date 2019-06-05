@@ -8,11 +8,13 @@ body {
 h1 {
 	font-size: 32px;
   font-family: Palatino, 'Palatino Linotype', serif;
-  color: rgb(121,149,117);
+  color: rgb(65, 160, 244);
 }
 
 h2 {
 	font-size: 56px;
+  font-family: Palatino, 'Palatino Linotype', serif;
+  color: rgb(66, 170, 244);
 }
 
 
@@ -20,7 +22,7 @@ h2 {
 	padding: 250px 0;
 	margin: 30px;
   font-family: 'Trebuchet MS', Helvetica, sans-serif;
-  background-image: url("https://s3.amazonaws.com/codecademy-content/projects/make-a-website/lesson-2/bg.jpg");
+  background-image: url("https://www.oodlesthemes.com/wp-content/uploads/2017/10/OO0122373-Blue-abstract-background-design-copy-copy.jpg");
   background-size: cover;
   color: #ffffff;
 }
