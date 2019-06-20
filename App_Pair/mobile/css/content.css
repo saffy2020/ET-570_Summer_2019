@@ -14,7 +14,7 @@
 }
 
 .mobile-app-dashboard-header h1 {
-  color: #ad0a51;
+  color: #fefefe;
   text-align: center;
   font-size: 22px;
   background: rgba(254, 254, 254, 0.2);
@@ -46,18 +46,18 @@
           justify-content: center;
   text-align: center;
   margin: 0;
-  color:  #661924;
+  color: #8a8a8a;
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
   -webkit-flex-direction: column;
       -ms-flex-direction: column;
           flex-direction: column;
-  border-bottom: 1px solid  #661924;
+  border-bottom: 1px solid #8a8a8a;
 }
 
 .mobile-app-dashboard a:nth-child(2n-1) {
-  border-right: 1px solid #661924;
+  border-right: 1px solid #8a8a8a;
 }
 
 .mobile-app-dashboard .mobile-app-dashboard-inner {
